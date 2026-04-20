@@ -38,6 +38,9 @@ Some programs written in RISC-V assembly and bare-metal C:
 
 RV32IM variant simulation on logisim with some programs.
 
+<div align="center">
+    <img width="350" alt="primes" src="./imgs/YUGEN-GIF.gif">
+</div>
 
 <table>
   <tr>
