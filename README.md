@@ -22,17 +22,16 @@ A simple implementation of a 32-bit pipelined RISC-V processor on an FPGA, writt
 ## Programs
 Some programs written in RISC-V assembly and bare-metal C:
 
-Mandelbrot set grapher in the terminal 
+- nth Fibonacci calculator on on-board LED and terminal
+- Mandelbrot set grapher in the terminal over UART
+- listing prime numbers upto 10,000 over UART
+
 
 <div align="center">
-    <img width="400" alt="primes" src="./imgs/GIF_MANDELBROT.gif">
+    <img width="350" alt="primes" src="./imgs/GIF_MANDELBROT.gif">
+	<img width="350" alt="primes" src="./imgs/GIF_PRIMES.gif">
 </div>
 
-listing prime numbers upto 10,000
-
-<div align="center">
-    <img width="400" alt="primes" src="./imgs/GIF_PRIMES.gif">
-</div>
 
 
 ## Logisim
@@ -59,6 +58,6 @@ RV32IM variant simulation on logisim with some programs.
 | FF  | 15,750 | 481   | 4   |
 | BSRAM | 46   | 46    | 100 |
 
-<div align="center">
-    <img width="300" alt="resources" src="./imgs/resources.jpg">
+<div>
+    <img width="250" alt="resources" src="./imgs/resources.jpg">
 </div>
