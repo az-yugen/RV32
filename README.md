@@ -3,7 +3,7 @@
 A simple implementation of a 32-bit pipelined RISC-V processor on an FPGA, written in SystemVerilog.
 
 <div align="center">
-    <img width="800" alt="homepage" src="./imgs/fpga_yugen.png">
+    <img width="400" alt="homepage" src="./imgs/fpga_yugen.png">
 </div>
 
 
@@ -25,13 +25,13 @@ Some programs written in RISC-V assembly and bare-metal C:
 Mandelbrot set grapher in the terminal 
 
 <div align="center">
-    <img width="600" alt="primes" src="./images/GIF_MANDELBROT.gif">
+    <img width="400" alt="primes" src="./imgs/GIF_MANDELBROT.gif">
 </div>
 
 listing prime numbers upto 10,000
 
 <div align="center">
-    <img width="600" alt="primes" src="./images/GIF_PRIMES.gif">
+    <img width="400" alt="primes" src="./imgs/GIF_PRIMES.gif">
 </div>
 
 
@@ -40,13 +40,13 @@ listing prime numbers upto 10,000
 RV32IM variant simulation on logisim with some programs.
 
 <div align="center">
-    <img width="800" alt="logisim rv32im" src="./images/YUGEN_GIF.gif">
+    <img width="400" alt="logisim rv32im" src="./imgs/YUGEN_GIF.gif">
 </div>
 
 <div>
-    <img width="400" alt="logisim primes" src="./images/PRIMES_GIF.gif">
-    <img width="400" alt="logisim primes" src="./images/MANDELBROT_GIF.gif">
-    <img width="400" alt="logisim primes" src="./images/PONG_GIF.gif">
+    <img width="200" alt="logisim primes" src="./imgs/PRIMES_GIF.gif">
+    <img width="200" alt="logisim primes" src="./imgs/MANDELBROT_GIF.gif">
+    <img width="200" alt="logisim primes" src="./imgs/PONG_GIF.gif">
 </div>
 
 
@@ -60,5 +60,5 @@ RV32IM variant simulation on logisim with some programs.
 | BSRAM | 46   | 46    | 100 |
 
 <div align="center">
-    <img width="600" alt="resources" src="./imgs/resources.jpg">
+    <img width="300" alt="resources" src="./imgs/resources.jpg">
 </div>
