@@ -3,7 +3,7 @@
 A simple implementation of a 32-bit pipelined RISC-V processor on an FPGA, written in SystemVerilog.
 
 <div align="center">
-    <img width="400" alt="homepage" src="./imgs/fpga_yugen.png">
+    <img width="400" alt="fpga yugen" src="./imgs/fpga_yugen.png">
 </div>
 
 
@@ -28,8 +28,8 @@ Some programs written in RISC-V assembly and bare-metal C:
 
 
 <div align="center">
-    <img width="350" alt="primes" src="./imgs/GIF_MANDELBROT.gif">
-	<img width="350" alt="primes" src="./imgs/GIF_PRIMES.gif">
+    <img width="350" alt="fpga mandelbrot" src="./imgs/GIF_MANDELBROT.gif">
+	<img width="350" alt="fpga primes" src="./imgs/GIF_PRIMES.gif">
 </div>
 
 
@@ -39,12 +39,12 @@ Some programs written in RISC-V assembly and bare-metal C:
 RV32IM variant simulation on logisim with some programs.
 
 <div align="center">
-    <img width="350" alt="logisim rv32im" src="./imgs/YUGEN_GIF.gif">
+    <img width="450" alt="logisim rv32im" src="./imgs/YUGEN_GIF.gif">
 </div>
 
-<table>
+<table align="center">
   <tr>
-    <td rowspan="2"><img src="./imgs/GIF-MANDELBROT-RESIZED.gif" width="300"></td>
+    <td rowspan="2"><img src="./imgs/GIF-MANDELBROT-RESIZED.gif" width="200"></td>
     <td><img src="./imgs/GIF-PONG-RESIZED.gif" width="300"></td>
   </tr>
   <tr>
@@ -63,5 +63,5 @@ RV32IM variant simulation on logisim with some programs.
 | BSRAM | 46   | 46    | 100 |
 
 <div>
-    <img width="250" alt="resources" src="./imgs/resources.jpg">
+    <img width="200" alt="resources" src="./imgs/resources.jpg">
 </div>
