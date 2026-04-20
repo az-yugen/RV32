@@ -38,15 +38,16 @@ Some programs written in RISC-V assembly and bare-metal C:
 
 RV32IM variant simulation on logisim with some programs.
 
-<div align="center">
-    <img width="400" alt="logisim rv32im" src="./imgs/YUGEN_GIF.gif">
-</div>
 
-<div>
-    <img width="200" alt="logisim primes" src="./imgs/PRIMES_GIF.gif">
-    <img width="200" alt="logisim primes" src="./imgs/MANDELBROT_GIF.gif">
-    <img width="200" alt="logisim primes" src="./imgs/PONG_GIF.gif">
-</div>
+<table>
+  <tr>
+    <td rowspan="2"><img src="./imgs/GIF-MANDELBROT-RESIZED.gif" width="300"></td>
+    <td><img src="./imgs/GIF-PONG-RESIZED.gif" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="./imgs/GIF-PRIME-RESIZED.gif" width="300"></td>
+  </tr>
+</table>
 
 
 
